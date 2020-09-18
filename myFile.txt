@@ -1,0 +1,32 @@
+program is found
+Statement seq is found
+Statement is found
+Read statement
+ read is found
+ ID is found
+; is found
+Statement is found
+if is found
+if statement
+exp is found
+simple exp is found
+ term is found
+ factor is found
+number is found
+comparaison is found
+<
+simple exp is found
+ term is found
+ factor is found
+ID is found
+then is found
+Statement seq is found
+Statement is found
+assign statement
+ ID is found
+ := is found
+exp is found
+simple exp is found
+ term is found
+ factor is found
+number is found
